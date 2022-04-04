@@ -37,7 +37,7 @@ A simple Twitter Clone application created using React and firebase to mimic the
 
 ## Demo
 
-[Twitter-clone link soon](https://linktodocumentation)
+[Twitter-clone link soon](https://twitter-project-work.netlify.app/)
 
 
 ## Run Locally
